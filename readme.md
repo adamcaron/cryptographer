@@ -84,7 +84,7 @@ end
 
 When you finish ROT-13, add the ability to specify the rotation number when encrypting or decrypting. So a user could, for example, choose to use ROT-6.
 
-## Shuffled Cipher
+### Shuffled Cipher
 
 The next level up would be to create a shuffled cipher (the pattern used for encrypting/decrypting). Create your own cipher which maps each letter to an arbitrary other letter (like a mapping to x and b mapping to j). And create a reversed version for decrypting.
 
